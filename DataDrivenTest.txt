@@ -3,3 +3,5 @@ admin,admin123
 xyz,admin123
 admin,admin123
 mani,mani123
+loku,loku123,4356765434
+vijay,vijiay,4595849079
